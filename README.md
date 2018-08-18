@@ -16,7 +16,7 @@ The Taobao search plugin for Wox, lets you search [Taobao](https://www.taobao/co
 In your Wox search box, use the `wpm` command:
 
 ```
-wpm install TabobaoSearch
+wpm install Taobao Search
 ```
 
 ### Option 2
@@ -33,10 +33,11 @@ Then copy the folder to your Wox plugin directory (usually `C:\Users\{username}\
 
 Use keyword `tb` to trigger the plugin, or set a new trigger at Wox settings page.
 
+---
+
 # Wox 淘宝搜索插件
 
 [Wox](https://github.com/Wox-launcher/Wox/) 的[淘宝](https://www.taobao/com)搜索插件。
-
 
 ## 功能
 
@@ -50,7 +51,7 @@ Use keyword `tb` to trigger the plugin, or set a new trigger at Wox settings pag
 在 Wox 搜索框中使用 `wpm` 命令：
 
 ```
-wpm install TabobaoSearch
+wpm install Taobao Search
 ```
 
 ### 方法二
