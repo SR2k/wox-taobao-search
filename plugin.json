@@ -1,0 +1,12 @@
+{
+    "ID": "A9DE04895B484FA79B224EF7F3314CC4",
+    "ActionKeyword": "tb",
+    "Name": "Taobao Search",
+    "Description": "Search via Taobao, and get live keyword suggestions",
+    "Author": "Siyuan Cao",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "https://github.com/SR2k/wox-taobao-search",
+    "IcoPath": "Images\\taobao.png",
+    "ExecuteFileName": "main.py"
+  }
